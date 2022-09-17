@@ -1,0 +1,10 @@
+# Documentation - https://starship.rs/config/
+
+# Get editor completions based on the config schema
+"$schema" = 'https://starship.rs/config-schema.json'
+
+# Display time in prompt (https://starship.rs/config/#time)
+[time]
+disabled = false
+time_format = '%_I:%M:%S%P'
+format = "[$time]($style) "
