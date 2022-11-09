@@ -34,6 +34,7 @@ brew install bat
 brew install fzf
 brew install thefuck
 brew install zsh-autosuggestions
+brew install zx
 
 # Install FastLane
 brew install fastlane
