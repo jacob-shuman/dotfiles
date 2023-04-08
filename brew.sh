@@ -36,11 +36,8 @@ brew install thefuck
 brew install zsh-autosuggestions
 brew install zx
 
-# Install FastLane
-brew install fastlane
-
-# Install browser
-brew install brave
+# Install util apps
+brew install --cask shortcutdetective
 
 # Install communication apps
 brew install discord
